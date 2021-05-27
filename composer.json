@@ -6,7 +6,6 @@
     "license": "MIT",
     "require": {
         "php": "^7.3 || ^8.0",
-
         "bagrinsergiu/sylius": "^2.1",
         "phpseclib/phpseclib": "^2.0",
         "sylius-labs/doctrine-migrations-extra-bundle": "^0.1.3",
